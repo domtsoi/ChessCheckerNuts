@@ -1,0 +1,1 @@
+public enum TeamEnums {BLUE, CYAN, GREEN, RED, YELLOW, MAGENTA}
